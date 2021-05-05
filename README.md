@@ -24,3 +24,9 @@
 
 
   # Objectives
+* Linearize the non-linear equations of motion.
+* Derive the State Space representation of the model.
+* Develope a state-feedback control system that will balance the pendulum in the erect position using Pole Placement.
+* Simulate the closed loop system using Simulink.
+* Set up a swing up control that is energy based.
+* Output the system to Coppelia Sim to test out the code in a simulated model.
