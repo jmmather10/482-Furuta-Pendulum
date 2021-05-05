@@ -5,7 +5,7 @@
 2) [Objectives](#headers)  
 3) [Derivation](#headers) 
 4) [Matlab Code](#headers) 
-5) [Model Simulation on Coppelia](#headers) 
+5) [Model Simulation](#headers) 
 6) [Results](#headers) 
 
 
@@ -56,7 +56,7 @@
   
   
   
-  # Model Simulation on Coppelia
+  # Model Simulation
   
   
   
