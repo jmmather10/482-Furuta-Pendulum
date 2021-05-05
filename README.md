@@ -30,3 +30,40 @@
 * Simulate the closed loop system using Simulink.
 * Set up a swing up control that is energy based.
 * Output the system to Coppelia Sim to test out the code in a simulated model.
+
+
+
+
+
+
+  # Derivation
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # Matlab Code
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # Model Simulation on Coppelia
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # Results
