@@ -10,4 +10,4 @@
 
 
   # Introduction
-The Furtua Pedulum otherwise kknows as the rotary inverted pendulum is a basic system to help exemplify a non-linear system that is
+The Furtua Pedulum otherwise knows as the rotary inverted pendulum is a basic system to help exemplify a non-linear system that is
