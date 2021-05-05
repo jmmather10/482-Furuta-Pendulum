@@ -1,6 +1,6 @@
 # 482-Furuta-Pendulum
 
-  ##### Table of Contents  
+  # Table of Contents  
 1) [Introduction](#headers)  
 2) [Objectives](#headers)  
 3) [Derivation](#headers) 
@@ -9,5 +9,5 @@
 6) [Results](#headers) 
 
 
-<a name="headers"/>
-Introduction
+  # Introduction
+The Furtua Pedulum otherwise kknows as the rotary inverted pendulum is a basic system to help exemplify a non-linear system that is
