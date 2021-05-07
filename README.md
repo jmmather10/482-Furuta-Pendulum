@@ -19,7 +19,7 @@
 * Set up a swing up control that is energy based.
 * Output the system to Coppelia Sim to test out the code in a simulated model.
 
-  # Derivation
+ # Derivation
 ![Equations of motion](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Derivations__Page_1.png?raw=true "Derivations Pg 1")
 
 ![State Space representation](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Derivations__Page_2.png?raw=true "Derivations Pg 2")
