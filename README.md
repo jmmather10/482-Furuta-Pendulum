@@ -26,7 +26,7 @@
 
 
   # Derivation
-!(/Pendulum_Images?raw=true "Derivations Pg 1")
+![Equations of motion](/Pendulum_Images?raw=true "Derivations Pg 1")
   
   
   
