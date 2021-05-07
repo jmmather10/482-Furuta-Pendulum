@@ -26,6 +26,8 @@
 
 
   # Derivation
+![Equations of motion](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Derivations__Page_1.png?raw=true "Derivations Pg 1")
+
 ![Equations of motion](/Pendulum_Images?raw=true "Derivations Pg 1")
   
   
