@@ -28,14 +28,14 @@
    
   # Matlab Code
 
->% Element Output parameters:
->% g             Gravitational constant                         (m/s^2)
->% Mx            Element Mass with T-fitting                    (kg)
->% Lx            Full Length of the element (w/ T-fitting)      (m)
->% lx            Distance from pivot to centre Of gravity       (m)
->% Jx            moment of inertia                              (kg.m^2)
->% Bx            Viscous damping coefficient as seen at the 
->%               element axis                                   (N.m.s/rad) 
+>% Element Output parameters:<br />
+>% g             Gravitational constant                         (m/s^2)<br />
+>% Mx            Element Mass with T-fitting                    (kg)<br />
+>% Lx            Full Length of the element (w/ T-fitting)      (m)<br />
+>% lx            Distance from pivot to centre Of gravity       (m)<br />
+>% Jx            moment of inertia                              (kg.m^2)<br />
+>% Bx            Viscous damping coefficient as seen at the             <br />
+>%               element axis                                   (N.m.s/rad)<br /> 
  
   
   
