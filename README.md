@@ -27,7 +27,7 @@
 ![A and B matrices](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Derivations__Page_3.png?raw=true "Derivations Pg 3")
    
   # Matlab Code
-![code] 
+![code]( 
 % Element Output parameters:
 % g             Gravitational constant                         (m/s^2)
 % Mx            Element Mass with T-fitting                    (kg)
@@ -36,7 +36,7 @@
 % Jx            moment of inertia                              (kg.m^2)
 % Bx            Viscous damping coefficient as seen at the 
 %               element axis                                   (N.m.s/rad) 
-[/code]  
+)[/code]  
   
   
   
