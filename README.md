@@ -26,7 +26,7 @@
 
 
   # Derivation
-(/Pendulum_Images?raw=true "Derivations Pg 1")
+!(/Pendulum_Images?raw=true "Derivations Pg 1")
   
   
   
