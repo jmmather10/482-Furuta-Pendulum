@@ -35,7 +35,7 @@
 ><br>% lx:            Distance from pivot to centre Of gravity       (m)<br/>
 ><br>% Jx:            moment of inertia                              (kg.m^2)<br/>
 ><br>% Bx:            Viscous damping coefficient as seen at the element axis (N.m.s/rad)<br/> 
-> 
+><br><br/> 
   # Model Simulation
  
  <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
@@ -45,9 +45,5 @@
  <br>![CoppeliaSim Error](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Connection_Error.jpg?raw=true "CoppeliaSim Error")  
  Error while trying to connect MatLab model to CoppeliaSim.<br/> 
   
-  
-  
-  
   # Results
-The governing non-linear equations of the system were derived and linearized sucessfully
-by using small angle approixmation of theata to 0 degrees.
+The governing non-linear equations of the system were derived and linearized sucessfully by using small angle approixmation. The A matrix is found by solving the linearized governing equations of motion for the accerations of the arm and the pendulum, theata (arm) and apha (pendulum) double-dot respectively. These accerations are in terms of the torque applied to the motor as an input. The state space representation can be seen in the images as the A, B, C, and D matrices.
