@@ -41,6 +41,7 @@
  <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
  Pendulum model in CoppeliaSim, running using the Newton engine.<br/>
  <br>![State Space Coefficients](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/MatLab_SS_Rep.jpg?raw=true "State Space Coefficients")
+ State space representation with K-coefficients.<br/>
  <br>![Connection Test](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Test_Connect.jpg?raw=true "Connection Test")
  Test connection MatLab mouse position output.<br/> 
  <br>![CoppeliaSim Error](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Connection_Error.jpg?raw=true "CoppeliaSim Error")  
