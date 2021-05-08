@@ -27,24 +27,23 @@
 ![A and B matrices](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Derivations__Page_3.png?raw=true "Derivations Pg 3")
    
   # Matlab Code
-Below are some of the parameter constants of the system.
-<br/>
->% Element Output parameters:<br/>
-><br/>% g:             Gravitational constant                         (m/s^2)<br/>
-><br/>% Mx:            Element Mass with T-fitting                    (kg)<br/>
-><br/>% Lx:            Full Length of the element (w/ T-fitting)      (m)<br/>
-><br/>% lx:            Distance from pivot to centre Of gravity       (m)<br/>
-><br/>% Jx:            moment of inertia                              (kg.m^2)<br/>
-><br/>% Bx:            Viscous damping coefficient as seen at the element axis (N.m.s/rad)<br/> 
+<br>Below are some of the parameter constants of the system.<br/>
+><br>% Element Output parameters:<br/>
+><br>% g:             Gravitational constant                         (m/s^2)<br/>
+><br>% Mx:            Element Mass with T-fitting                    (kg)<br/>
+><br>% Lx:            Full Length of the element (w/ T-fitting)      (m)<br/>
+><br>% lx:            Distance from pivot to centre Of gravity       (m)<br/>
+><br>% Jx:            moment of inertia                              (kg.m^2)<br/>
+><br>% Bx:            Viscous damping coefficient as seen at the element axis (N.m.s/rad)<br/> 
  
   # Model Simulation
  
- ![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
- <br/>Pendulum model in CoppeliaSim, running using the Newton engine.<br/>
- ![Connection Test](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Test_Connect.jpg?raw=true "Connection Test")
- <br/>Test connection MatLab mouse position output.<br/> 
- ![CoppeliaSim Error](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Connection_Error.jpg?raw=true "CoppeliaSim Error")  
- <br>Error while trying to connect MatLab model to CoppeliaSim.<br/> 
+ <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
+ Pendulum model in CoppeliaSim, running using the Newton engine.<br/>
+ <br>![Connection Test](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Test_Connect.jpg?raw=true "Connection Test")
+ Test connection MatLab mouse position output.<br/> 
+ <br>![CoppeliaSim Error](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Connection_Error.jpg?raw=true "CoppeliaSim Error")  
+ Error while trying to connect MatLab model to CoppeliaSim.<br/> 
   
   
   
