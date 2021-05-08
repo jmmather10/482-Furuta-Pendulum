@@ -40,11 +40,11 @@ Below are some of the parameter constants of the system.
   # Model Simulation
  
  ![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
- <br/>Pendulum model in CoppeliaSim, running using the Newton engin.<br/>
+ <br/>Pendulum model in CoppeliaSim, running using the Newton engine.<br/>
  ![Connection Test](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Test_Connect.jpg?raw=true "Connection Test")
  <br/>Test connection MatLab mouse position output.<br/> 
  ![CoppeliaSim Error](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Connection_Error.jpg?raw=true "CoppeliaSim Error")  
- <br/>Error while trying to connect MatLab model to CoppeliaSim.<br/> 
+ <br>Error while trying to connect MatLab model to CoppeliaSim.<br/> 
   
   
   
