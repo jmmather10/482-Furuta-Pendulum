@@ -35,7 +35,7 @@
 ><br>% lx:            Distance from pivot to centre Of gravity       (m)<br/>
 ><br>% Jx:            moment of inertia                              (kg.m^2)<br/>
 ><br>% Bx:            Viscous damping coefficient as seen at the element axis (N.m.s/rad)<br/> 
- 
+> 
   # Model Simulation
  
  <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
