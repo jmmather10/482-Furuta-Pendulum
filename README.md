@@ -48,7 +48,7 @@ Utilization of the Simulink system introduced a big learning curve for the proje
 
   # Model Simulation
  
- <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Sad_Pendulum.jpg?raw=true "CoppeliaSim Model") 
+ <br>![CoppeliaSim Model](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/Happy_pendulum.jpg?raw=true "CoppeliaSim Model") 
  Pendulum model in CoppeliaSim, running using the Newton engine.<br/>
  <br>![State Space Coefficients](https://github.com/jmmather10/482-Furuta-Pendulum/blob/main/Pendulum_Images/MatLab_SS_Rep.jpg?raw=true "State Space Coefficients")
  State space representation with balance control gain and swing-up parameters.<br/>
