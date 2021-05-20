@@ -43,6 +43,13 @@ system to Simulink, and connect the final result to Coppelia Sim in order to ver
 ><br>% Bx:            Viscous damping coefficient as seen at the element axis (N.m.s/rad)<br/> 
 ><br><br/> 
 >
+<br>![Zero Pole Map](https://github.com/jmmather10/482-Furuta-Pendulum/blob/7aa464eb652acbaf4eb3da7ee2e73d9f28ff8ecd/Pendulum_Images/Zero%20Pole.jpg "Zero Pole Map")
+>
+<br>![Zero Pole Map](https://github.com/jmmather10/482-Furuta-Pendulum/blob/7aa464eb652acbaf4eb3da7ee2e73d9f28ff8ecd/Pendulum_Images/Zero%20Pole%20Map.jpg?raw=true "Zero Pole Map")
+>
+<br>![Compensated Step Response](https://github.com/jmmather10/482-Furuta-Pendulum/blob/7aa464eb652acbaf4eb3da7ee2e73d9f28ff8ecd/Pendulum_Images/Compensated%20Step%20Response.jpg?raw=true "Compensated Step Response")
+>
+
 Developing the Matlab code based on the equations of motion,state space functions, and A & B martices derived by hand took some finesse and were able to be introduced using a matrix format, this made it possible to integrate the code into the provided simulink files. Additionally, the code was quite extensive but integration of the provided software and combination of information found in opensource online files the Matlab code worked to output the appropriate deliberables.
 Utilization of the Simulink system introduced a big learning curve for the project, without any prior experience the team struggled with using the application. Once some of the code was being introduced into simulink to create outputs required for Coppelia Sim a warning/error for the swingup simulink file occured because of a requirement to have a quarc_library downloaded and implimented and this was not provided in the software file, so this library has been requested from quanser.com for use in the project. The simulation for the rotpen_bal has thrown an error due to a possible "singularity" in the file or a need for a possible reduction in step size.
 
